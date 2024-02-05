@@ -13,7 +13,9 @@ python3 -m venv myenv
 
 # Activate the virtual environment
 source myenv/bin/activate
-
+```
+## Step 2: Setup the Environment
+```
 # Navigate to the project folder
 cd path/to/your/project
 
