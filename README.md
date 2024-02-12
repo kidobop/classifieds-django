@@ -3,7 +3,7 @@
 ## Step 1: Create a Virtual Environment
 ```bash
 # On Windows
-python -m venv myenv
+python -m venv env
 
 # Activate the virtual environment
 myenv\Scripts\activate
@@ -12,7 +12,7 @@ myenv\Scripts\activate
 python3 -m venv myenv
 
 # Activate the virtual environment
-source myenv/bin/activate
+source env/bin/activate
 ```
 ## Step 2: Setup the Environment
 ```
