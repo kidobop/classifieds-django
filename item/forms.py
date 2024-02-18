@@ -25,3 +25,5 @@ class NewItemForm(forms.ModelForm):
                     'class': INPUT_CLASSES
                 })
             }   
+        
+        #test
